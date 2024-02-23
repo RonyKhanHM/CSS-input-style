@@ -1,0 +1,116 @@
+
+.container{
+width: 550px;
+height: 550px;
+margin: auto;
+border: 1px solid black;
+box-sizing: border-box;
+}
+
+.header{
+  font-size: xx-large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+
+.slogan{
+  margin-top: 0px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+}
+
+.name{
+  width: 250px;
+  height: 20px;
+  margin-left: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+.sname{
+  width: 245px;
+  height: 20px;
+  margin-left: 10px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+  
+
+.email{
+  width: 520px;
+  height: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+}
+
+.pass{
+  width: 520px;
+  height: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+  padding-top: 5px;
+  padding-left: 5px;
+  padding-bottom: 5px;
+  margin-bottom: 20px;
+}
+
+
+.dob{
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+.date{
+  width: 165px;
+  height: 20px;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+.month{
+  width: 165px;
+  height: 20px;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+.year{
+  width: 165px;
+  height: 20px;
+  margin-left: 10px;
+  padding-left: 5px;
+  padding-top: 5px;
+  margin-bottom: 20px;
+}
+
+
+.check{
+  margin-left: 10px;
+}
+.gender{
+  margin-left: 10px;
+}
+
+.policy{
+  margin-left: 10px;
+}
+
+.creat{
+  margin-left: 180px;
+  width: 175px;
+  height: 30px;
+  background-color: green;
+  color: aliceblue;
+  border: none;
+  border-radius: 5px;
+}
